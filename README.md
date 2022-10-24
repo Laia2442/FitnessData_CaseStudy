@@ -1,4 +1,4 @@
-# FitnessData CaseStudy
+# Fitness Data Case Study
 
 Data from Fitbit database in Kaggle. 
 Full report using R avaiable here in pdf. 
